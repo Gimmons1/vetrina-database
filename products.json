@@ -1,20 +1,29 @@
 [
   {
-    "artist" : "Avicii",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
-    "status" : "Acquistato",
     "id" : "72B297AD-E7BC-4A02-90C1-AADE55529A86",
-    "isVisible" : true,
     "title" : "Stories",
-    "price" : 1
+    "price" : 1,
+    "status" : "Acquistato",
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
+    "artist" : "Avicii",
+    "isVisible" : true
   },
   {
-    "artist" : "Avicii",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/57\/61\/65\/5761655b-7d1c-1cbe-660e-9244eb233222\/12UMGIM18403.rgb.jpg\/600x600bb.jpg",
-    "status" : "Da Comprare",
     "id" : "64436E22-B08C-4B6E-BEE8-560C260BD81F",
-    "isVisible" : true,
     "title" : "Silhouettes (Radio Edit) - Single",
-    "price" : 5
+    "price" : 5,
+    "status" : "Da Comprare",
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/57\/61\/65\/5761655b-7d1c-1cbe-660e-9244eb233222\/12UMGIM18403.rgb.jpg\/600x600bb.jpg",
+    "artist" : "Avicii",
+    "isVisible" : true
+  },
+  {
+    "id" : "05C2481C-0676-40EA-930F-8A2AFEB6F16F",
+    "title" : "Stories",
+    "price" : 1,
+    "status" : "Acquistato",
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
+    "artist" : "Avicii",
+    "isVisible" : true
   }
 ]
