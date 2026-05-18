@@ -1,38 +1,12 @@
 [
   {
     "isVisible" : true,
+    "id" : "5280B526-99A3-4CCB-B76B-F042C0D65772",
+    "coverUrl" : "https:\/\/i.discogs.com\/xZR7QaxdkTaA43VuPUOO9EPPyGjdu8nIHGWJn7fbSc4\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU0ODE4\/NDAtMTM5NDQ4Mzc2\/Ny00NzE1LmpwZWc.jpeg",
+    "mediaFormat" : "CD",
     "status" : "Acquistato",
-    "id" : "72B297AD-E7BC-4A02-90C1-AADE55529A86",
-    "price" : 1,
-    "artist" : "Avicii",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
-    "title" : "Stories"
-  },
-  {
-    "isVisible" : true,
-    "status" : "Da Comprare",
-    "id" : "64436E22-B08C-4B6E-BEE8-560C260BD81F",
-    "price" : 5,
-    "artist" : "Avicii",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/57\/61\/65\/5761655b-7d1c-1cbe-660e-9244eb233222\/12UMGIM18403.rgb.jpg\/600x600bb.jpg",
-    "title" : "Silhouettes (Radio Edit) - Single"
-  },
-  {
-    "isVisible" : true,
-    "status" : "Acquistato",
-    "id" : "05C2481C-0676-40EA-930F-8A2AFEB6F16F",
-    "price" : 1,
-    "artist" : "Avicii",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
-    "title" : "Stories"
-  },
-  {
-    "id" : "A61356CE-E280-47EE-BB0C-F5F59B65F110",
-    "status" : "In Arrivo",
-    "isVisible" : true,
+    "price" : 15,
     "artist" : "Stromae",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music122\/v4\/23\/47\/e3\/2347e329-fe5a-eca4-2844-729d58f90daa\/13UAAIM67450.rgb.jpg\/600x600bb.jpg",
-    "price" : 1,
-    "title" : "Racine carrée"
+    "title" : "Racine Carrée"
   }
 ]
