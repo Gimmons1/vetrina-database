@@ -1,29 +1,38 @@
 [
   {
+    "isVisible" : true,
+    "status" : "Acquistato",
     "id" : "72B297AD-E7BC-4A02-90C1-AADE55529A86",
-    "title" : "Stories",
     "price" : 1,
-    "status" : "Acquistato",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
     "artist" : "Avicii",
-    "isVisible" : true
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
+    "title" : "Stories"
   },
   {
-    "id" : "64436E22-B08C-4B6E-BEE8-560C260BD81F",
-    "title" : "Silhouettes (Radio Edit) - Single",
-    "price" : 5,
+    "isVisible" : true,
     "status" : "Da Comprare",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/57\/61\/65\/5761655b-7d1c-1cbe-660e-9244eb233222\/12UMGIM18403.rgb.jpg\/600x600bb.jpg",
+    "id" : "64436E22-B08C-4B6E-BEE8-560C260BD81F",
+    "price" : 5,
     "artist" : "Avicii",
-    "isVisible" : true
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music211\/v4\/57\/61\/65\/5761655b-7d1c-1cbe-660e-9244eb233222\/12UMGIM18403.rgb.jpg\/600x600bb.jpg",
+    "title" : "Silhouettes (Radio Edit) - Single"
   },
   {
-    "id" : "05C2481C-0676-40EA-930F-8A2AFEB6F16F",
-    "title" : "Stories",
-    "price" : 1,
+    "isVisible" : true,
     "status" : "Acquistato",
-    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
+    "id" : "05C2481C-0676-40EA-930F-8A2AFEB6F16F",
+    "price" : 1,
     "artist" : "Avicii",
-    "isVisible" : true
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/e0\/f4\/25\/e0f425ba-2848-f1c2-e102-9ddcef5e9d9d\/15UMGIM35223.rgb.jpg\/600x600bb.jpg",
+    "title" : "Stories"
+  },
+  {
+    "id" : "A61356CE-E280-47EE-BB0C-F5F59B65F110",
+    "status" : "In Arrivo",
+    "isVisible" : true,
+    "artist" : "Stromae",
+    "coverUrl" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music122\/v4\/23\/47\/e3\/2347e329-fe5a-eca4-2844-729d58f90daa\/13UAAIM67450.rgb.jpg\/600x600bb.jpg",
+    "price" : 1,
+    "title" : "Racine carrée"
   }
 ]
